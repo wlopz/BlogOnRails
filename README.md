@@ -1,0 +1,1 @@
+Blog done using rails guide. Helped a lot understanding the basics.
